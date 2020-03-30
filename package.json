@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-basics",
+  "version": "1.0.0",
+  "description": "mongodb-task",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon database.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hybee22/mongodb-basics.git"
+  },
+  "author": "Ibrahim Adekunle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hybee22/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/Hybee22/mongodb-basics#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
